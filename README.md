@@ -6,11 +6,11 @@ About Me
 
 ⚡I really enjoy everything related to technology, programming, and I'm passionate about web development.
 
-\# Trying to become a better person every day.
+⚡ Trying to become a better person every day.
 
-\# I enjoy working in teams and collaborating with other people.
+⚡I enjoy working in teams and collaborating with other people.
 
-\# I enjoy personal development and productivity.
+⚡I enjoy personal development and productivity.
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [gvachet@yahoo.com.ar](mailto:gvachet@yahoo.com.ar) or LinkedIn.
@@ -38,6 +38,7 @@ src="https://img.shields.io/github/followers/germanvache?logo=github&style=for-t
 <a href="http://www.github.com/germanvache"><img src="https://github-readme-streak-stats.herokuapp.com/?user=germanvache&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/germanvache" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=germanvache&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 
 
